@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="DbRest.ApiService/DbRest.ApiService.csproj" />
+  <Project Path="DbRest.AppHost/DbRest.AppHost.csproj" />
+  <Project Path="DbRest.ServiceDefaults/DbRest.ServiceDefaults.csproj" />
+  <Project Path="DbRest.Tests/DbRest.Tests.csproj" />
+  <Project Path="DbRest.Web/DbRest.Web.csproj" />
+</Solution>
